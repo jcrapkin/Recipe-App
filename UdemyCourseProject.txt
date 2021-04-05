@@ -1,0 +1,8 @@
+-------------------------Root Component ----------------------------------
+			Header Component
+
+
+Shopping list(feature)                          --Recipe Book(feature)-- 
+--Shopping List Component --			--Recipe List Component--
+--Shopping List Edit Component --		--Recipe Item Component--
+						--Recipe Detail Component--
